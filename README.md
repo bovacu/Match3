@@ -1,1 +1,1 @@
-# Voodoo - Match3 - Borja V
+Read the documentation!
